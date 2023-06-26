@@ -32,13 +32,13 @@ pip install requests urllib3 beautifulsoup4 selenium
         
 3- Ejercicio 2:  
 
-a- Instalación de Chrome;   
+- Instalación de Chrome;   
   
-b- Instalación del Webdrive de Chrome compatible con la versión de Chrome presente en tu ordenador;   
+- Instalación del Webdrive de Chrome compatible con la versión de Chrome presente en tu ordenador;   
   
-c- Modifica la ruta de la variable __webdriver_path__ con la ruta de la carpeta donde se encuentra el Webdriver de Chrome en tu ordenador;  
+- Modifica la ruta de la variable __webdriver_path__ con la ruta de la carpeta donde se encuentra el Webdriver de Chrome en tu ordenador;  
   
-d- Modifica la ruta de la variable __output_path__ con la ruta de la carpeta donde quieres guardar lo screenshot de salida.  
+- Modifica la ruta de la variable __output_path__ con la ruta de la carpeta donde quieres guardar lo screenshot de salida.  
 
 \
 __ATENCIÓN!!__  
