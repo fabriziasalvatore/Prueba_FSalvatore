@@ -1,7 +1,6 @@
 # Prueba_FSalvatore
-Ejercicios resueltos para la prueba de NTT Data.
 
-Prueba técnica de Fabrizia Salvatore.
+Prueba técnica de Fabrizia Salvatore. Ejercicios resueltos para la prueba de NTT Data.
 
 __Contenido del repositorio:__  
   
