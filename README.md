@@ -14,7 +14,7 @@ screenshot.png (output del Ejercicio2)
 *Requisitos*
 Python 3.6
 
-#https://www.python.org/downloads/release/python-360/
+https://www.python.org/downloads/release/python-360/
 
 Instalaciones de bibliotecas:
 requests
@@ -24,7 +24,7 @@ selenium
 		
 Puedes ejecutar el codigo de installación: 
 		
-#pip install requests urllib3 beautifulsoup4 selenium
+>pip install requests urllib3 beautifulsoup4 selenium
 
 
 Ejercicio2: 
