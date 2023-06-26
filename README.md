@@ -14,7 +14,7 @@ screenshot.png (output del Ejercicio2).
 
 \
 __Requisitos:__  
-            
+---             
 1-Python 3.6  
 https://www.python.org/downloads/release/python-360/ ;  
    
@@ -38,7 +38,7 @@ d-Modifica la ruta de la variable "output_path" con la ruta de la carpeta donde 
 
 \
 __ATENCIÓN!!__  
-          
+---           
 Podrías enfrentar problemas en la ejecución del código debido a las restricciones en las redes de la empresa. Si el codigo faja, 
 intenta ejecutarlo desde una red privada.   
           
