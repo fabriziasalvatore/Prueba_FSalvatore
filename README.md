@@ -19,10 +19,10 @@ __Requisitos:__
 https://www.python.org/downloads/release/python-360/ ;  
    
 2- Instalaciones de bibliotecas:  
-requests;  
-urllib3;  
-Beautifulsoup4;   
-selenium.  
+requests   
+urllib3   
+Beautifulsoup4    
+selenium  
   	          
 Puedes ejecutar el codigo de installación:   
    
