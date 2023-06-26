@@ -3,7 +3,7 @@ Ejercicios resueltos para la prueba de NTT Data.
 
 Prueba técnica de Fabrizia Salvatore.
 
-#__Contenido del repositorio:__#  
+__Contenido del repositorio:__  
   
 Ejercicio1.doc  
 Ejercicio2.py  
