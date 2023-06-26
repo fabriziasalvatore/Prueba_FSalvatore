@@ -1,4 +1,4 @@
-### __Prueba_FSalvatore__ ###  
+### __Prueba_FSalvatore__ 
 ***            
 Prueba técnica de Fabrizia Salvatore. Ejercicios resueltos para la prueba de NTT Data.
 
