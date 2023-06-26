@@ -1,10 +1,9 @@
 ### __Prueba_FSalvatore__ 
 ***            
 Prueba técnica de Fabrizia Salvatore. Ejercicios resueltos para la prueba de NTT Data.
-<big>Questo testo è ingrandito</big>
-
+   
 \
-__Contenido del repositorio:__    
+Contenido del repositorio:   
 ---             
 Ejercicio1.doc;  
 Ejercicio2.py;  
