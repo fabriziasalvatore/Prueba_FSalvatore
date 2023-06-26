@@ -1,9 +1,10 @@
-## Prueba_FSalvatore
+# Prueba_FSalvatore
 Ejercicios resueltos para la prueba de NTT Data.
 
 Prueba técnica de Fabrizia Salvatore.
 
-#__Contenido del repositorio:__  
+#__Contenido del repositorio:__#  
+  
 Ejercicio1.doc  
 Ejercicio2.py  
 Ejercicio3.py  
@@ -13,6 +14,7 @@ screenshot.png (output del Ejercicio2)
 
     
 __Requisitos__  
+  
 Python 3.6  
   
 https://www.python.org/downloads/release/python-360/  
@@ -35,6 +37,7 @@ Modifica la ruta de la variable "webdriver_path" con la ruta de la carpeta donde
 Modifica la ruta de la variable "output_path" con la ruta de la carpeta donde quieres guardar lo screenshot de salida  
   
 __ATENCIÓN!!__  
+  
 Podrías enfrentar problemas en la ejecución del código debido a las restricciones en las redes de la empresa. Si el codigo faja, 
 intenta ejecutarlo desde una red privada.   
   
