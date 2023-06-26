@@ -19,7 +19,7 @@ __Requisitos:__
 https://www.python.org/downloads/release/python-360/ ;  
    
 2- Instalaciones de bibliotecas:  
->requests;  
+requests;  
 urllib3;  
 Beautifulsoup4;   
 selenium.  
@@ -31,10 +31,10 @@ pip install requests urllib3 beautifulsoup4 selenium
 ```
         
 3- Ejercicio2:  
-   a-Instalación de Chrome  
-   b-Instalación del Webdrive de Chrome compatible con la versión de Chrome presente en tu ordenador   
-   c-Modifica la ruta de la variable "webdriver_path" con la ruta de la carpeta donde se encuentra el Webdriver de Chrome en tu ordenador  
-   d-Modifica la ruta de la variable "output_path" con la ruta de la carpeta donde quieres guardar lo screenshot de salida  
+>a- Instalación de Chrome  
+b- Instalación del Webdrive de Chrome compatible con la versión de Chrome presente en tu ordenador   
+c- Modifica la ruta de la variable "webdriver_path" con la ruta de la carpeta donde se encuentra el Webdriver de Chrome en tu ordenador  
+d- Modifica la ruta de la variable "output_path" con la ruta de la carpeta donde quieres guardar lo screenshot de salida  
 
 \
 __ATENCIÓN!!__  
