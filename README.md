@@ -29,10 +29,8 @@ Puedes ejecutar el codigo de installación:
 ```shell
 pip install requests urllib3 beautifulsoup4 selenium
 ```
-```
-```
         
-3-Ejercicio2: 
+3-Ejercicio2:  
 a-Instalación de Chrome  
 b-Instalación del Webdrive de Chrome compatible con la versión de Chrome presente en tu ordenador   
 c-Modifica la ruta de la variable "webdriver_path" con la ruta de la carpeta donde se encuentra el Webdriver de Chrome en tu ordenador  
