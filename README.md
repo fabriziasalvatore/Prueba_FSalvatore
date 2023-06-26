@@ -38,7 +38,7 @@ b- Instalación del Webdrive de Chrome compatible con la versión de Chrome pres
   
 c- Modifica la ruta de la variable __webdriver_path__ con la ruta de la carpeta donde se encuentra el Webdriver de Chrome en tu ordenador;  
   
-d- Modifica la ruta de la variable __output_path__ con la ruta de la carpeta donde quieres guardar lo screenshot de salida;  
+d- Modifica la ruta de la variable __output_path__ con la ruta de la carpeta donde quieres guardar lo screenshot de salida.  
 
 \
 __ATENCIÓN!!__  
