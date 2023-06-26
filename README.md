@@ -31,6 +31,7 @@ pip install requests urllib3 beautifulsoup4 selenium
 ```
         
 3- Ejercicio 2:  
+
 a- Instalación de Chrome;   
   
 b- Instalación del Webdrive de Chrome compatible con la versión de Chrome presente en tu ordenador;   
