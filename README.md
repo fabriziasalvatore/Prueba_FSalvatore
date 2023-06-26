@@ -29,7 +29,6 @@ Puedes ejecutar el codigo de installación:
 ```shell
 pip install requests urllib3 beautifulsoup4 selenium
 ```
-
 ```
 ```
         
