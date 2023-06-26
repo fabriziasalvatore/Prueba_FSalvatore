@@ -16,7 +16,6 @@ screenshot.png (output del Ejercicio2).
 __Requisitos__  
             
 Python 3.6  
-        
 https://www.python.org/downloads/release/python-360/  
 
 \
