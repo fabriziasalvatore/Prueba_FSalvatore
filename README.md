@@ -25,8 +25,9 @@ Beautifulsoup4;
 selenium.  
   	          
 Puedes ejecutar el codigo de installación:   
-'''shell
-pip install requests urllib3 beautifulsoup4 selenium'''    
+```shell
+pip install requests urllib3 beautifulsoup4 selenium
+  
         
 3-Ejercicio2: 
 a-Instalación de Chrome  
