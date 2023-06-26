@@ -25,7 +25,6 @@ Beautifulsoup4;
 selenium.  
   	          
 Puedes ejecutar el codigo de installación:   
-       		
 >pip install requests urllib3 beautifulsoup4 selenium  
         
 3-Ejercicio2: 
