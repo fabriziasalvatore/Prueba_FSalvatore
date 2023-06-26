@@ -5,7 +5,7 @@ Prueba técnica de Fabrizia Salvatore. Ejercicios resueltos para la prueba de NT
 \
 __Contenido del repositorio:__   
 ---             
->Ejercicio1.doc;  
+Ejercicio1.doc;  
 Ejercicio2.py;  
 Ejercicio3.py;  
 imagines;  
@@ -19,10 +19,10 @@ __Requisitos:__
 https://www.python.org/downloads/release/python-360/ ;  
    
 2- Instalaciones de bibliotecas:  
-\t requests;  
-   urllib3;  
-   Beautifulsoup4;   
-   selenium.  
+>requests;  
+urllib3;  
+Beautifulsoup4;   
+selenium.  
   	          
 Puedes ejecutar el codigo de installación:   
    
