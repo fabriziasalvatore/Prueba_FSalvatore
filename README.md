@@ -21,7 +21,8 @@ Prueba técnica de Fabrizia Salvatore.
 		selenium
 		
 		Puedes ejecutar el codigo de installación: 
-		'''pip install requests urllib3 beautifulsoup4 selenium'''
+		
+  		>'''pip install requests urllib3 beautifulsoup4 selenium'''
 
 
 	Ejercicio2: 
