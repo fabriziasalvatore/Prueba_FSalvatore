@@ -16,7 +16,7 @@ __Contenido del repositorio de Entrega:__
 __Requisitos:__  
 ---             
 1- Python 3.6  
-https://www.python.org/downloads/release/python-360/ ;  
+https://www.python.org/downloads/release/python-360/   
    
 2- Instalaciones de bibliotecas:  
 - requests   
